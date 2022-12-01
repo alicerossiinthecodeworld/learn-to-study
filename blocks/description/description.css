@@ -1,0 +1,25 @@
+.flex{
+  display: flex;
+}
+
+.centered-block {
+  margin: auto;
+} 
+
+.page {
+  min-width: 1100px;
+  /* мы ещё не умеем делать мобильную версию сайта, */
+  /* поэтому выше установлена минимальная ширина страницы */
+  max-width: 1600px;
+  /* выше установили ограничение по максимальной ширине */
+  margin: 0;
+  /* выше для экранов больше 1600px отцентрировали весь контент */
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.description{
+  width: 80%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  justify-content: space-between;
+}
