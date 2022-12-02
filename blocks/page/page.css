@@ -1,6 +1,9 @@
 .flex{
   display: flex;
 }
+.j_c_space_between{
+  justify-content: space-between;
+}
 
 .centered-block {
   margin: auto;
@@ -17,9 +20,10 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-.description{
-  width: 80%;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  justify-content: space-between;
+/* и элемента с модификатором вида ключ-значение */
+.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
 }
