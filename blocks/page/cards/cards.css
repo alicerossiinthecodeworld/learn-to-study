@@ -1,5 +1,8 @@
-.two-columns{
+.cards{
   display: flex;
   margin: auto;
+  flex-direction:row;
   justify-content: space-between;
+  width: 920px;
+  column-gap: 100px;
 }
