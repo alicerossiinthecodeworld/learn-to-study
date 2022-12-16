@@ -1,0 +1,8 @@
+.kaufman{ 
+  padding-bottom: 90 px;
+  background-color: black;
+  display: flex;
+  padding-top: 90px;
+  align-items: center;
+  flex-direction: column;
+}

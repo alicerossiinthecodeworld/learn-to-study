@@ -9,4 +9,7 @@
   margin: 0;
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Inter', Arial, sans-serif;
+  box-sizing: border-box;
+  height: 3;
 }
+

@@ -1,0 +1,7 @@
+.section_theme_dark{
+  display: flex;
+  align-items: center;
+  width: 60%;
+  background-color: black;
+  color:  #f2f2f2;
+}
