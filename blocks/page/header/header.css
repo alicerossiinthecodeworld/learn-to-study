@@ -6,4 +6,5 @@
   max-height: 756px;
   align-items: center;
   position: relative;
+  overflow: hidden;
 }
