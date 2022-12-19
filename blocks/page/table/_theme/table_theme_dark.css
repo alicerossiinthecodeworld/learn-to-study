@@ -1,0 +1,12 @@
+.table_theme_dark{
+  background-color: black;
+  color:  #f2f2f2;
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  width: 1100px;
+  justify-content: space-between;
+  padding-top: 60px;
+  column-gap: 60px;
+  padding-bottom: 100px;
+}
