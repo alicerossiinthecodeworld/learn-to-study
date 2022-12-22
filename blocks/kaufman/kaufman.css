@@ -1,6 +1,5 @@
 .kaufman{ 
   width:100%;
-  padding-bottom: 90 px;
   background-color: black;
   display: flex;
   padding-top: 90px;
@@ -8,4 +7,5 @@
   flex-direction: column;
   position: relative;
   overflow: hidden;
+  padding-bottom: 90px;
 }
