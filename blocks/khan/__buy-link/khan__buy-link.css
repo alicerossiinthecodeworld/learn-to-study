@@ -6,7 +6,7 @@
   font-weight: 400;
   text-decoration: none;
   opacity: 1;
-  transition: 0.5s;
+  transition: ease 0.5s;
 }
 
 .footer__column-link:hover{
