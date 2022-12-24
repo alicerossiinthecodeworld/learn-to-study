@@ -1,5 +1,6 @@
 .footer__columns{
   margin: 0;
+  max-height: 100%;
   display: flex;
   min-height: 167px;
   width: 90%;
